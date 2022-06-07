@@ -1,0 +1,15 @@
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1\bin\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.Extensions.exe
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1\bin\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.Extensions.deps.json
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1\bin\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.Extensions.runtimeconfig.json
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1\bin\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.Extensions.dll
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1\bin\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.Extensions.pdb
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1\obj\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.Extensions.csproj.AssemblyReference.cache
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1\obj\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1\obj\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.Extensions.AssemblyInfoInputs.cache
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1\obj\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.Extensions.AssemblyInfo.cs
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1\obj\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.Extensions.csproj.CoreCompileInputs.cache
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1\obj\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.Extensions.dll
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1\obj\Debug\net6.0\refint\MertBayraktar.Homeworks.Week.2.1.Extensions.dll
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1\obj\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.Extensions.pdb
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1\obj\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.Extensions.genruntimeconfig.cache
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1\obj\Debug\net6.0\ref\MertBayraktar.Homeworks.Week.2.1.Extensions.dll

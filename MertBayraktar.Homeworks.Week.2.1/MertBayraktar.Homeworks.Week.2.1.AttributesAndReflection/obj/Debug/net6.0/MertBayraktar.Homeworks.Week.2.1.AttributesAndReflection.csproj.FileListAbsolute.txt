@@ -1,0 +1,15 @@
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection\bin\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection.exe
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection\bin\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection.deps.json
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection\bin\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection.runtimeconfig.json
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection\bin\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection.dll
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection\bin\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection.pdb
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection\obj\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection.csproj.AssemblyReference.cache
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection\obj\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection.GeneratedMSBuildEditorConfig.editorconfig
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection\obj\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection.AssemblyInfoInputs.cache
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection\obj\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection.AssemblyInfo.cs
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection\obj\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection.csproj.CoreCompileInputs.cache
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection\obj\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection.dll
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection\obj\Debug\net6.0\refint\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection.dll
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection\obj\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection.pdb
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection\obj\Debug\net6.0\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection.genruntimeconfig.cache
+D:\TP .Net\MertBayraktar.Homeworks.Week.2.1\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection\obj\Debug\net6.0\ref\MertBayraktar.Homeworks.Week.2.1.AttributesAndReflection.dll
